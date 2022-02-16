@@ -12,7 +12,7 @@
   "unpkg": "dist/konoha-web-components/konoha-web-components.esm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/stencil-component-starter.git"
+    "url": "https://github.com/mmartinsoliv/konoha-web-components"
   },
   "files": [
     "dist/",
