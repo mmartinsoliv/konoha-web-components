@@ -12,7 +12,6 @@ export class KonohaButton {
   render() {
     return (
       <button class={`btn ${this.appearance}`} type="button">
-        {/* Slot */}
         {this.text}
       </button>
     );
